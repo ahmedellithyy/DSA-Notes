@@ -1,1 +1,1 @@
-What's "algorithm"?
+What's an 'algorithm'?
